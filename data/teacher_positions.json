@@ -1,0 +1,50 @@
+[
+  {
+    "id": "670b2ded6dce2acd384c6c5f",
+    "code": "TTS",
+    "des": "Giáo viên thực tập sinh tại trường",
+    "isActive": true,
+    "isDeleted": false,
+    "name": "Thực tập sinh"
+  },
+  {
+    "id": "670b2f9a6dce2acd384c6c65",
+    "code": "GVBM",
+    "des": "Giáo viên bộ môn giảng dạy tại trường",
+    "isActive": true,
+    "isDeleted": false,
+    "name": "Giáo viên bộ môn"
+  },
+  {
+    "id": "670b30586dce2acd384c6c75",
+    "code": "TBM",
+    "des": "Trưởng bộ môn giảng dạy tại trường",
+    "isActive": true,
+    "isDeleted": false,
+    "name": "Trưởng bộ môn"
+  },
+  {
+    "id": "670b306f6dce2acd384c6c77",
+    "code": "HT",
+    "des": "Hiệu trưởng tại trường học",
+    "isActive": true,
+    "isDeleted": false,
+    "name": "Hiệu trưởng"
+  },
+  {
+    "id": "670b307b6dce2acd384c6c79",
+    "code": "HP",
+    "des": "Phó hiệu trưởng tại trường học",
+    "isActive": true,
+    "isDeleted": false,
+    "name": "Hiệu phó"
+  },
+  {
+    "id": "670f3fda688dec7f661d70c7",
+    "code": "CBYT",
+    "des": "Hỗ trợ công việc Y Tế",
+    "isActive": true,
+    "isDeleted": false,
+    "name": "Cán Bộ Y Tế"
+  }
+]

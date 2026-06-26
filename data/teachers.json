@@ -1,0 +1,380 @@
+[
+  {
+    "id": "670f4039688dec7f661d70df",
+    "code": "0798333082",
+    "userId": "670f4039688dec7f661d70dc",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670f3fda688dec7f661d70c7"],
+    "degrees": [
+      {
+        "type": "Master",
+        "school": "Đại Học Y Hà Nội",
+        "major": "Y Đa Khoa",
+        "year": 2009,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f3ec4688dec7f661d6fdd",
+    "code": "1031019996",
+    "userId": "670f3ec4688dec7f661d6fda",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Xây Dựng",
+        "major": "Kỹ Thuật Xây Dựng",
+        "year": 2014,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f3ebb688dec7f661d6fd3",
+    "code": "2246882558",
+    "userId": "670f3ebb688dec7f661d6fd0",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Ngoại Ngữ Đà Nẵng",
+        "major": "Tiếng Anh",
+        "year": 2013,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f3eae688dec7f661d6fc9",
+    "code": "2621511601",
+    "userId": "670f3e9b688dec7f661d6fbc",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Y Hà Nội",
+        "major": "Y Học Cổ Truyền",
+        "year": 2011,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f3e93688dec7f661d6fb5",
+    "code": "3781215661",
+    "userId": "670f3e93688dec7f661d6fb2",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Master",
+        "school": "Đại Học Kinh Tế Quốc Dân",
+        "major": "Kế Toán",
+        "year": 2012,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f3e8b688dec7f661d6fab",
+    "code": "4215858843",
+    "userId": "670f3e8b688dec7f661d6fa8",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Sư Phạm Hà Nội",
+        "major": "Toán Học",
+        "year": 2015,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f3e7e688dec7f661d6fa1",
+    "code": "1864716387",
+    "userId": "670f3e77688dec7f661d6f99",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Master",
+        "school": "Đại Học Nông Lâm",
+        "major": "Khoa Học Môi Trường",
+        "year": 2010,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f372a688dec7f661d6f47",
+    "code": "3664683813",
+    "userId": "670f372a688dec7f661d6f44",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Thủ Dầu Một",
+        "major": "Công Nghệ Thông Tin",
+        "year": 2013,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f3701688dec7f661d6f21",
+    "code": "0399962044",
+    "userId": "670f3701688dec7f661d6f1e",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:31:40.953Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Master",
+        "school": "Đại Học Đà Lạt",
+        "major": "Du Lịch",
+        "year": 2014,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f316f6d7976234bcdf472",
+    "code": "1952101718",
+    "userId": "670f316f6d7976234bcdf46f",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Nông Lâm",
+        "major": "Khoa Học Cây Trồng",
+        "year": 2010,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f31656d7976234bcdf468",
+    "code": "1288411718",
+    "userId": "670f31656d7976234bcdf465",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Y Hà Nội",
+        "major": "Y Khoa",
+        "year": 2012,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f315e6d7976234bcdf45e",
+    "code": "1238601718",
+    "userId": "670f315e6d7976234bcdf45b",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Khoa Học Tự Nhiên",
+        "major": "Sinh Học",
+        "year": 2011,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f31556d7976234bcdf454",
+    "code": "1288101728",
+    "userId": "670f31556d7976234bcdf451",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Master",
+        "school": "Đại Học Sư Phạm",
+        "major": "Sư Phạm Ngữ Văn",
+        "year": 2008,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f314a6d7976234bcdf44a",
+    "code": "1248101718",
+    "userId": "670f314a6d7976234bcdf447",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Mỏ Địa Chất",
+        "major": "Địa Chất",
+        "year": 2013,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f313d6d7976234bcdf440",
+    "code": "1288102718",
+    "userId": "670f313d6d7976234bcdf43d",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Master",
+        "school": "Đại Học Hải Phòng",
+        "major": "Hải Dương Học",
+        "year": 2015,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f31296d7976234bcdf436",
+    "code": "1288141718",
+    "userId": "670f31296d7976234bcdf433",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Cần Thơ",
+        "major": "Nông Nghiệp",
+        "year": 2014,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f311c6d7976234bcdf42c",
+    "code": "1285101718",
+    "userId": "670f31026d7976234bcdf424",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Bách Khoa",
+        "major": "Công Nghệ Thông Tin",
+        "year": 2009,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f30f56d7976234bcdf41d",
+    "code": "1288105718",
+    "userId": "670f30f56d7976234bcdf41a",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Master",
+        "school": "Đại Học Ngoại Thương",
+        "major": "Kinh Tế Đối Ngoại",
+        "year": 2012,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f30e46d7976234bcdf40f",
+    "code": "1988101718",
+    "userId": "670f30e46d7976234bcdf40c",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học Kinh Tế Quốc Dân",
+        "major": "Quản Trị Kinh Doanh",
+        "year": 2011,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670f2f936d7976234bcdf3fd",
+    "code": "1208101718",
+    "userId": "670f2f936d7976234bcdf3fa",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-16T03:11:54.293Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại Học",
+        "major": "Ngôn Ngữ",
+        "year": 2010,
+        "isGraduated": true
+      }
+    ]
+  },
+  {
+    "id": "670e4b9d9b361ae928a5c732",
+    "code": "1096169083",
+    "userId": "670e4b9d9b361ae928a5c72f",
+    "isActive": true,
+    "isDeleted": false,
+    "startDate": "2024-10-15T10:50:08.813Z",
+    "teacherPositionsId": ["670b2f9a6dce2acd384c6c65", "670b30586dce2acd384c6c75"],
+    "degrees": [
+      {
+        "type": "Bachelor",
+        "school": "Đại học Sư Phạm Hà Nội",
+        "major": "Sư phạm Toán",
+        "year": 2005,
+        "isGraduated": true
+      }
+    ]
+  }
+]

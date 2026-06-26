@@ -1,0 +1,608 @@
+{
+  "positions": [
+    {
+      "id": "pos-1",
+      "ma": "TTS",
+      "ten": "Thực tập sinh",
+      "moTa": "Giáo viên thực tập sinh tại trường",
+      "trangThai": "Hoạt động"
+    },
+    {
+      "id": "pos-2",
+      "ma": "GVBM",
+      "ten": "Giáo viên bộ môn",
+      "moTa": "Giáo viên bộ môn giảng dạy tại trường",
+      "trangThai": "Hoạt động"
+    },
+    {
+      "id": "pos-3",
+      "ma": "TBM",
+      "ten": "Trưởng bộ môn",
+      "moTa": "Trưởng bộ môn giảng dạy tại trường",
+      "trangThai": "Hoạt động"
+    },
+    {
+      "id": "pos-4",
+      "ma": "HT",
+      "ten": "Hiệu trưởng",
+      "moTa": "Hiệu trưởng tại trường học",
+      "trangThai": "Hoạt động"
+    },
+    {
+      "id": "pos-5",
+      "ma": "HP",
+      "ten": "Hiệu phó",
+      "moTa": "Phó hiệu trưởng tại trường học",
+      "trangThai": "Hoạt động"
+    },
+    {
+      "id": "pos-6",
+      "ma": "CBYT",
+      "ten": "Cán Bộ Y Tế",
+      "moTa": "Hỗ trợ công việc Y Tế",
+      "trangThai": "Hoạt động"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "t-1",
+      "ma": "0798333082",
+      "hoTen": "Phạm Đức Trung",
+      "ngaySinh": "1988-11-20",
+      "soDienThoai": "0785493433",
+      "email": "phductrung@school.edu.vn",
+      "soCCCD": "001088019284",
+      "diaChi": "Hà nội",
+      "viTriCongTac": ["CBYT"],
+      "hocVi": [
+        {
+          "id": "deg-1-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học Y Hà Nội",
+          "chuyenNganh": "Y Đa Khoa",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2018"
+        },
+        {
+          "id": "deg-1-2",
+          "bac": "Cử nhân",
+          "truong": "Đại học Y Hà Nội",
+          "chuyenNganh": "Y Đa Khoa",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2014"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-2",
+      "ma": "1031019996",
+      "hoTen": "Nguyễn Minh Trung",
+      "ngaySinh": "1992-05-15",
+      "soDienThoai": "07756367450",
+      "email": "minhtrung@school.edu.vn",
+      "soCCCD": "001092008124",
+      "diaChi": "Thanh Hóa",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-2-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Bách Khoa Hà Nội",
+          "chuyenNganh": "Kỹ Thuật Xây Dựng",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2021"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-3",
+      "ma": "2246882558",
+      "hoTen": "Trần Thiên Kim",
+      "ngaySinh": "1994-02-18",
+      "soDienThoai": "08756367449",
+      "email": "thienkim@school.edu.vn",
+      "soCCCD": "001094001235",
+      "diaChi": "Quảng Bình",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-3-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Sư phạm Ngoại ngữ",
+          "chuyenNganh": "Tiếng Anh",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2019"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-4",
+      "ma": "2621511601",
+      "hoTen": "Hoàng Nam",
+      "ngaySinh": "1995-09-12",
+      "soDienThoai": "09756367448",
+      "email": "hoangnam@school.edu.vn",
+      "soCCCD": "001095018742",
+      "diaChi": "Sơn La",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-4-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Y Dược",
+          "chuyenNganh": "Y Học Cổ Truyền",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2022"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-5",
+      "ma": "3781215661",
+      "hoTen": "Phạm Thủy Dương",
+      "ngaySinh": "1993-06-25",
+      "soDienThoai": "07756367447",
+      "email": "thuyduong@school.edu.vn",
+      "soCCCD": "001093019842",
+      "diaChi": "Hà Nam",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-5-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học Kinh tế Quốc dân",
+          "chuyenNganh": "Kế Toán",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2020"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-6",
+      "ma": "4215858843",
+      "hoTen": "Nguyễn Minh Tuấn",
+      "ngaySinh": "1991-04-30",
+      "soDienThoai": "08756367446",
+      "email": "minhtuan@school.edu.vn",
+      "soCCCD": "001091012398",
+      "diaChi": "Ninh Bình",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-6-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Khoa học Tự nhiên",
+          "chuyenNganh": "Toán Học",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2017"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-7",
+      "ma": "1864716387",
+      "hoTen": "Trần Anh Thư",
+      "ngaySinh": "1989-10-10",
+      "soDienThoai": "09756367445",
+      "email": "anhthu@school.edu.vn",
+      "soCCCD": "001089018742",
+      "diaChi": "Đồng Nai",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-7-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học Khoa học Tự nhiên",
+          "chuyenNganh": "Khoa Học Môi Trường",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2015"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-8",
+      "ma": "3664683813",
+      "hoTen": "Nguyễn Hoàng Minh",
+      "ngaySinh": "1993-01-20",
+      "soDienThoai": "09756367443",
+      "email": "hoangminh@school.edu.vn",
+      "soCCCD": "001093012847",
+      "diaChi": "Bình Dương",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-8-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Công nghệ - ĐHQGHN",
+          "chuyenNganh": "Công Nghệ Thông Tin",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2021"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-9",
+      "ma": "0399962044",
+      "hoTen": "Lê Khánh Linh",
+      "ngaySinh": "1990-08-14",
+      "soDienThoai": "08756367444",
+      "email": "khanhlinh@school.edu.vn",
+      "soCCCD": "001090018743",
+      "diaChi": "Lâm Đồng",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-9-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học KHXH & Nhân văn",
+          "chuyenNganh": "Du Lịch",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2019"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-10",
+      "ma": "1952101718",
+      "hoTen": "Lê Thanh",
+      "ngaySinh": "1991-03-24",
+      "soDienThoai": "08756367442",
+      "email": "lethanh@school.edu.vn",
+      "soCCCD": "001091018274",
+      "diaChi": "Bắc Giang",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-10-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Nông nghiệp Hà Nội",
+          "chuyenNganh": "Khoa Học Cây Trồng",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2018"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-11",
+      "ma": "0123456789",
+      "hoTen": "Vũ Văn Thắng",
+      "ngaySinh": "1986-07-12",
+      "soDienThoai": "0912345678",
+      "email": "thangvu@school.edu.vn",
+      "soCCCD": "001086001234",
+      "diaChi": "Hải Phòng",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-11-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học Sư phạm Hà Nội",
+          "chuyenNganh": "Ngữ văn",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2012"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-12",
+      "ma": "0123456790",
+      "hoTen": "Nguyễn Thị Mai",
+      "ngaySinh": "1984-11-05",
+      "soDienThoai": "0912345679",
+      "email": "mainguyen@school.edu.vn",
+      "soCCCD": "001084001234",
+      "diaChi": "Nghệ An",
+      "viTriCongTac": ["TBM"],
+      "hocVi": [
+        {
+          "id": "deg-12-1",
+          "bac": "Tiến sĩ",
+          "truong": "Đại học Sư phạm Hà Nội",
+          "chuyenNganh": "Hóa học",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2015"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-13",
+      "ma": "0123456791",
+      "hoTen": "Đặng Hoàng Nam",
+      "ngaySinh": "1978-01-20",
+      "soDienThoai": "0912345680",
+      "email": "namdang@school.edu.vn",
+      "soCCCD": "001078001234",
+      "diaChi": "Hà Nội",
+      "viTriCongTac": ["HT"],
+      "hocVi": [
+        {
+          "id": "deg-13-1",
+          "bac": "Tiến sĩ",
+          "truong": "Đại học Khoa học Tự nhiên",
+          "chuyenNganh": "Vật lý",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2008"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-14",
+      "ma": "0123456792",
+      "hoTen": "Bùi Thị Minh",
+      "ngaySinh": "1982-03-14",
+      "soDienThoai": "0912345681",
+      "email": "minhbui@school.edu.vn",
+      "soCCCD": "001082001234",
+      "diaChi": "Hà Nội",
+      "viTriCongTac": ["HP"],
+      "hocVi": [
+        {
+          "id": "deg-14-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học Sư phạm Hà Nội",
+          "chuyenNganh": "Sinh học",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2010"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-15",
+      "ma": "0123456793",
+      "hoTen": "Ngô Quốc Bảo",
+      "ngaySinh": "2000-09-30",
+      "soDienThoai": "0912345682",
+      "email": "baongo@school.edu.vn",
+      "soCCCD": "001200001234",
+      "diaChi": "Huế",
+      "viTriCongTac": ["TTS"],
+      "hocVi": [
+        {
+          "id": "deg-15-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Sư phạm Huế",
+          "chuyenNganh": "Tin học",
+          "trangThai": "Đang học",
+          "totNghiep": "2024"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-16",
+      "ma": "0123456794",
+      "hoTen": "Lý Thu Thảo",
+      "ngaySinh": "1995-12-15",
+      "soDienThoai": "0912345683",
+      "email": "thaoly@school.edu.vn",
+      "soCCCD": "001095001234",
+      "diaChi": "Cần Thơ",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-16-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Cần Thơ",
+          "chuyenNganh": "Địa lý",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2017"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-17",
+      "ma": "0123456795",
+      "hoTen": "Phùng Quốc Khánh",
+      "ngaySinh": "1992-06-21",
+      "soDienThoai": "0912345684",
+      "email": "khanhphung@school.edu.vn",
+      "soCCCD": "001092001234",
+      "diaChi": "Hòa Bình",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-17-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Tây Bắc",
+          "chuyenNganh": "Lịch sử",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2014"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-18",
+      "ma": "0123456796",
+      "hoTen": "Dương Trung Kiên",
+      "ngaySinh": "1994-08-19",
+      "soDienThoai": "0912345685",
+      "email": "kienduong@school.edu.vn",
+      "soCCCD": "001094001234",
+      "diaChi": "Vĩnh Phúc",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-18-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học Sư phạm Hà Nội 2",
+          "chuyenNganh": "Giáo dục Thể chất",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2021"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-19",
+      "ma": "0123456797",
+      "hoTen": "Cao Thị Bình",
+      "ngaySinh": "1993-04-10",
+      "soDienThoai": "0912345686",
+      "email": "binhcao@school.edu.vn",
+      "soCCCD": "001093001234",
+      "diaChi": "Bắc Ninh",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-19-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Sư phạm Hà Nội",
+          "chuyenNganh": "Giáo dục Tiểu học",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2015"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-20",
+      "ma": "0123456798",
+      "hoTen": "Đỗ Văn Hưng",
+      "ngaySinh": "1990-10-30",
+      "soDienThoai": "0912345687",
+      "email": "hungdo@school.edu.vn",
+      "soCCCD": "001090001234",
+      "diaChi": "Thái Bình",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-20-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Sư phạm Hà Nội",
+          "chuyenNganh": "Công nghệ",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2012"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-21",
+      "ma": "0123456799",
+      "hoTen": "Trịnh Hoài Nam",
+      "ngaySinh": "1991-05-14",
+      "soDienThoai": "0912345688",
+      "email": "namtrinh@school.edu.vn",
+      "soCCCD": "001091001234",
+      "diaChi": "Hà Giang",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-21-1",
+          "bac": "Thạc sĩ",
+          "truong": "Đại học Sư phạm Hà Nội",
+          "chuyenNganh": "Ngữ văn",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2018"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-22",
+      "ma": "0123456800",
+      "hoTen": "Đinh Thị Lan",
+      "ngaySinh": "1994-02-28",
+      "soDienThoai": "0912345689",
+      "email": "landinh@school.edu.vn",
+      "soCCCD": "001094001234",
+      "diaChi": "Lào Cai",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-22-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Sư phạm Hà Nội",
+          "chuyenNganh": "Địa lý",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2016"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    },
+    {
+      "id": "t-23",
+      "ma": "0123456801",
+      "hoTen": "Hồ Sỹ Tiến",
+      "ngaySinh": "1988-09-09",
+      "soDienThoai": "0912345690",
+      "email": "tienho@school.edu.vn",
+      "soCCCD": "001088001234",
+      "diaChi": "Nghệ An",
+      "viTriCongTac": ["GVBM"],
+      "hocVi": [
+        {
+          "id": "deg-23-1",
+          "bac": "Cử nhân",
+          "truong": "Đại học Sư phạm Vinh",
+          "chuyenNganh": "Lịch sử",
+          "trangThai": "Hoàn thành",
+          "totNghiep": "2010"
+        }
+      ],
+      "boMon": "N/A",
+      "trangThai": "Đang công tác",
+      "avatar": ""
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "66fccc52217127a14cd596c8",
+    "email": "nguyencuong21520@gmail.com",
+    "address": "Phúc Tân, Hoàn Kiếm, Hà Nội",
+    "dob": "2000-05-21",
+    "name": "Nguyễn Văn Cường",
+    "phoneNumber": "0822666664",
+    "role": "STUDENT",
+    "isDeleted": false
+  },
+  {
+    "id": "66fcdf2bfcfa3b44ac04bd14",
+    "name": "Admin",
+    "role": "ADMIN",
+    "phoneNumber": "03539236031",
+    "isDeleted": false
+  },
+  {
+    "id": "670e4b9d9b361ae928a5c72f",
+    "email": "trantrungtruc@school.edu.vn",
+    "address": "Yên Từ, Yên Mô, Ninh Bình",
+    "dob": "1988-01-01",
+    "name": "Trần Trung Trực",
+    "identity": "07564912343",
+    "phoneNumber": "78900366324",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f2f936d7976234bcdf3fa",
+    "email": "haian@school.edu.vn",
+    "address": "Hà Nội",
+    "dob": "1997-10-11",
+    "name": "Lê Thu Hải An",
+    "identity": "96746645634",
+    "phoneNumber": "08756367432",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f30e46d7976234bcdf40c",
+    "email": "phuonganh@school.edu.vn",
+    "address": "Hà Nội",
+    "dob": "1996-07-05",
+    "name": "Nguyễn Phương Anh",
+    "identity": "86746645635",
+    "phoneNumber": "08756367433",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f30f56d7976234bcdf41a",
+    "email": "bichngoc@school.edu.vn",
+    "address": "Hồ Chí Minh",
+    "dob": "1996-10-28",
+    "name": "Trần Bích Ngọc",
+    "identity": "95746645636",
+    "phoneNumber": "09756367434",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f31026d7976234bcdf424",
+    "email": "minhhieu@school.edu.vn",
+    "address": "Đà Nẵng",
+    "dob": "1997-06-17",
+    "name": "Ngô Minh Hiếu",
+    "identity": "93746645637",
+    "phoneNumber": "09756367435",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f31296d7976234bcdf433",
+    "email": "thanhtam@school.edu.vn",
+    "address": "Cần Thơ",
+    "dob": "1998-05-30",
+    "name": "Phạm Thanh Tâm",
+    "identity": "92746645638",
+    "phoneNumber": "07756367436",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f313d6d7976234bcdf43d",
+    "email": "minhanh@school.edu.vn",
+    "address": "Hải Phòng",
+    "dob": "1998-09-23",
+    "name": "Đặng Minh Anh",
+    "identity": "91746645639",
+    "phoneNumber": "08756367437",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f314a6d7976234bcdf447",
+    "email": "baoan@school.edu.vn",
+    "address": "Quảng Ninh",
+    "dob": "1997-02-21",
+    "name": "Lê Bảo An",
+    "identity": "98746645640",
+    "phoneNumber": "09756367438",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f31556d7976234bcdf451",
+    "email": "lanngoc@school.edu.vn",
+    "address": "Nam Định",
+    "dob": "1997-06-17",
+    "name": "Phạm Lan Ngọc",
+    "identity": "99746645641",
+    "phoneNumber": "09756367439",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f315e6d7976234bcdf45b",
+    "email": "minhquang@school.edu.vn",
+    "address": "Hà Nội",
+    "dob": "1996-10-28",
+    "name": "Lê Minh Quang",
+    "identity": "92746645642",
+    "phoneNumber": "08756367440",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f31656d7976234bcdf465",
+    "email": "thuannguyen@school.edu.vn",
+    "address": "Hà Tĩnh",
+    "dob": "1997-02-21",
+    "name": "Nguyễn Thuận",
+    "identity": "96746645643",
+    "phoneNumber": "09756367441",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f316f6d7976234bcdf46f",
+    "email": "lethang@school.edu.vn",
+    "address": "Bắc Giang",
+    "dob": "1997-10-11",
+    "name": "Lê Thanh",
+    "identity": "92746645644",
+    "phoneNumber": "08756367442",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f3701688dec7f661d6f1e",
+    "email": "khanhlinh@school.edu.vn",
+    "address": "Lâm Đồng",
+    "dob": "1993-01-08",
+    "name": "Lê Khánh Linh",
+    "identity": "92746645646",
+    "phoneNumber": "08756367444",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f372a688dec7f661d6f44",
+    "email": "hoangminh@school.edu.vn",
+    "address": "Bình Dương",
+    "dob": "1994-08-10",
+    "name": "Nguyễn Hoàng Minh",
+    "identity": "91746645645",
+    "phoneNumber": "09756367443",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f3e77688dec7f661d6f99",
+    "email": "anhthu@school.edu.vn",
+    "address": "Đồng Nai",
+    "dob": "1992-05-22",
+    "name": "Trần Anh Thư",
+    "identity": "98746645647",
+    "phoneNumber": "09756367445",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f3e8b688dec7f661d6fa8",
+    "email": "minhtuan@school.edu.vn",
+    "address": "Ninh Bình",
+    "dob": "1992-09-14",
+    "name": "Nguyễn Minh Tuấn",
+    "identity": "95746645648",
+    "phoneNumber": "08756367446",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f3e93688dec7f661d6fb2",
+    "email": "thuyduong@school.edu.vn",
+    "address": "Hà Nam",
+    "dob": "1994-04-16",
+    "name": "Phạm Thùy Dương",
+    "identity": "98746645649",
+    "phoneNumber": "07756367447",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f3e9b688dec7f661d6fbc",
+    "email": "hoangnam@school.edu.vn",
+    "address": "Sơn La",
+    "dob": "1993-08-28",
+    "name": "Hoàng Nam",
+    "identity": "97746645650",
+    "phoneNumber": "09756367448",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f3ebb688dec7f661d6fd0",
+    "email": "thienkim@school.edu.vn",
+    "address": "Quảng Bình",
+    "dob": "1994-08-10",
+    "name": "Trần Thiên Kim",
+    "identity": "96746645651",
+    "phoneNumber": "08756367449",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f3ec4688dec7f661d6fda",
+    "email": "minhtrung@school.edu.vn",
+    "address": "Thanh Hóa",
+    "dob": "1993-01-08",
+    "name": "Nguyễn Minh Trung",
+    "identity": "92746645652",
+    "phoneNumber": "07756367450",
+    "role": "TEACHER",
+    "isDeleted": false
+  },
+  {
+    "id": "670f4039688dec7f661d70dc",
+    "email": "phductrung@school.edu.vn",
+    "address": "Hà nội",
+    "dob": "1986-04-01",
+    "name": "Phạm Đức Trung",
+    "identity": "0755383348843674",
+    "phoneNumber": "07854933433",
+    "role": "TEACHER",
+    "isDeleted": false
+  }
+]
